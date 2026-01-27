@@ -1,7 +1,7 @@
 # Cinema Booking System
 
 A Python-based **movie ticket booking application** built using **Tkinter GUI** and **SQLite database**.
-This project simulates a real-world cinema ticketing system where users can select movies, view show timings, choose seats, and confirm bookings — all with a modern, user-friendly interface.
+This project simulates a real-world cinema ticketing system where users can select movies, view show timings, choose seats, and confirm bookings,all with a modern, user-friendly interface.
 
 ---
 
